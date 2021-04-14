@@ -1,7 +1,7 @@
 # starbase-router
 
-> A Vue.js project
-
+> This small app will display a list of Star Wars Personas, 
+> Using Vue.Js and Swapi API
 ## Build Setup
 
 ``` bash
